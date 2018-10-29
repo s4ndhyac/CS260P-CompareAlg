@@ -26,7 +26,8 @@ void minHeapify(int minArray[], int size, int i)
 
 void buildMinHeap(int a[], int size)
 {
-  for (int i = size / 2; i >= 0; i--)
+  int i;
+  for (i = size / 2; i >= 0; i--)
     minHeapify(a, size, i);
 }
 
