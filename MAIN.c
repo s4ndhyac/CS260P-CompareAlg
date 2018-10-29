@@ -1,9 +1,9 @@
 #include <stdio.h>
 #define MAXN 10000
 #define MAXK 100
-#include "COMPARE.c"
 #include "doalg.c"
-main()
+
+int main()
 {
   int N = 10000;
   int K = 40;
