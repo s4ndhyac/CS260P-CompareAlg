@@ -1,4 +1,4 @@
-# CS 260P Project #1 
+# CompareAlg 
 ### To find k-largest elements in an array
 
 ## Build Instructions
